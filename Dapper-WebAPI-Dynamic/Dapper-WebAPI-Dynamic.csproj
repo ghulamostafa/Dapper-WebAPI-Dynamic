@@ -165,6 +165,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helper\Code\GridExtract.cs" />
+    <Compile Include="Helper\Code\paramWithValues.cs" />
+    <Compile Include="Helper\Code\TheEnumModel.cs" />
+    <Compile Include="Helper\Code\Utility.cs" />
     <Compile Include="Models\BaseModels\MainRequestModel.cs" />
     <Compile Include="Models\BaseModels\MainResponseModel.cs" />
     <Compile Include="Models\RequestModels\SampleRequest.cs" />
